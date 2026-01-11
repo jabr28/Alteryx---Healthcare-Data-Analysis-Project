@@ -1,13 +1,10 @@
-# Alteryx---Healthcare-Data-Analysis-Project
-Healthcare data analysis and workflow automation using Alteryx
-
 ✨ Overview
-
 This project analyzes healthcare data to uncover trends and insights that can improve patient care and hospital operations. It demonstrates data cleaning, transformation, and analysis entirely using Alteryx Designer.
 
-📊 Dataset
+⚠️ Note: The dataset used in this project is a sample extracted from a larger hospital database to ensure patient privacy and data security.
 
-Includes anonymized records of:
+📊 Dataset
+Includes anonymized sample records of:
 
 Patient demographics (age, gender, location)
 
@@ -28,5 +25,4 @@ Identify trends in patient admissions, treatments, and outcomes
 Prepare data for reporting and visualization
 
 👤 About Me
-
 I’m Youssef Gabr, a pharmacy professional with experience in hospital operations and data analytics. I’m passionate about turning complex healthcare data into actionable insights using Alteryx.
