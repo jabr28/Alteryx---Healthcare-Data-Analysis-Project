@@ -1,0 +1,5 @@
+department,CountDistinct_patient_id
+OPD,4
+ER,4
+ICU,4
+Pharmacy,8
